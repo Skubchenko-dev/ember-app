@@ -19,6 +19,12 @@ You will need the following things properly installed on your computer.
 * `npm install`
 
 ## Running / Development
+* make an .env file in the root of repository and add:
+* PUSHER_APP_ID = 1086318
+* PUSHER_APP_KEY = 8e4bd9e0f75331b8b448
+* PUSHER_APP_SECRET = e7e6a923cb1884bbceb0
+* PUSHER_APP_CLUSTER = eu
+* PORT = 3000
 
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
